@@ -1,0 +1,76 @@
+/*  Update the code below this comment */ 
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial,sans-serif;
+}
+a{
+    color:black;
+    font-weight: 700;
+    text-decoration: none;
+}
+/*  Update the code below this comment */
+header{
+    height: 100px;
+    background-color: #806BDC;
+    text-align: center;
+}
+.NavBar{
+    padding-top: 25px;
+}
+#navbar-title{
+    color: white;
+    font-size: 50px;
+}
+.items{
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+#item-table{
+    width:100px;
+    text-align:center;
+}
+.Item-img{
+    height: 270px;
+}
+.Item-tag{
+    font-size:14px;
+}
+/* Update the code below this comment */
+.Shopping-container{
+    background-color: lightgrey;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#shopping-time-img{
+    margin-top: 30px;
+    width: 90vw;
+    height: 60vh;
+}
+/* Update the code below this comment */
+.Sales-table{
+    width: 90vw;
+    margin: auto;
+    border: 1px grey solid;
+    border-collapse: collapse;
+    padding: 12px;
+}
+.Sales-table-head{
+    background-color: #806BDC;
+}
+/* Update the code below this comment */
+.Information{
+    width: 92vw;
+    margin: 20px;
+    font-size: 11px;
+    color: #878787;
+    list-style-position: inside;
+}
+
+footer{
+    height: 50px;
+    padding-top: 28px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
